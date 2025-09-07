@@ -1,33 +1,67 @@
 # UNCW Cyber Defense Club Badge
 
-<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://github.com/user-attachments/assets/fc1020a3-ba0c-4987-b67f-f9c28e4017c5" />
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
+Show your UNCW Cyber Defense Club pride on your GitHub profile!
 
 ## How to Add This Badge to Your GitHub Profile
 
 ### Method 1: Direct Image Link
 Copy and paste this code into your README.md:
 
-```markdown
-<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://github.com/user-attachments/assets/fc1020a3-ba0c-4987-b67f-f9c28e4017c5" />
+```html
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 ```
 
 ### Method 2: Clickable Badge (Links to this repo)
-```markdown
+```html
 <a href="https://github.com/Taylorwaldo/uncw-cyber-readme-badge">
-  <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://github.com/user-attachments/assets/fc1020a3-ba0c-4987-b67f-f9c28e4017c5" />
+  <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 </a>
 ```
 
+### Method 3: Different Sizes
+```html
+<!-- Small -->
+<img width="120" height="22" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
+<!-- Medium (Default) -->
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
+<!-- Large -->
+<img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+```
+
 ## Instructions:
-1. Copy one of the code blocks above
-2. Paste it into your GitHub profile README.md or any repository README
-3. Commit the changes
-4. The badge will appear in your README!
+1. **Copy** one of the code blocks above
+2. **Paste** it into your GitHub profile README.md or any repository README
+3. **Commit** the changes
+4. **Done!** The badge will appear in your README
 
 ## Club Members Using This Badge:
 - [Taylorwaldo](https://github.com/Taylorwaldo) ✅
 - Add your name here with a PR!
 
----
-*Made for UNCW Cyber Defense Club members*
+### How to Add Your Name to This List:
 
+#### Easy Way (Recommended):
+1. **Click the edit button (pencil icon)** on this README file
+2. **Add your name** to the list above in this format:
+   ```markdown
+   - [YourGitHubUsername](https://github.com/YourGitHubUsername) ✅
+   ```
+3. **Scroll down** and click "Propose changes"
+4. **Click "Create pull request"** 
+5. **Wait for approval** - It'll be merged once reviewed!
+
+#### Traditional Way:
+1. **Fork this repository**
+2. **Edit the README.md** in your fork
+3. **Add your name** to the club members list
+4. **Create a pull request** back to this repo
+
+---
+
+*Made with ❤️ for UNCW Cyber Defense Club members*
+
+**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone!
