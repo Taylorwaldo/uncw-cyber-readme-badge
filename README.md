@@ -2,8 +2,6 @@
 
 <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
-Show your UNCW Cyber Defense Club pride on your GitHub profile!
-
 ## How to Add This Badge to Your GitHub Profile
 
 ### Method 1: Direct Image Link (Standard)
