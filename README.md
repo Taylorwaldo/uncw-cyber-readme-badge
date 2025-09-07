@@ -62,6 +62,6 @@ Copy and paste this code into your README.md:
 
 ---
 
-*Made with ❤️ for UNCW Cyber Defense Club members*
+*Made exclusively for UNCW Cyber Defense Club members*
 
 **Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone!
