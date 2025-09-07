@@ -2,7 +2,7 @@
 
 # UNCW Cyber Defense Club Badge
 
-<img src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/3dgifmaker87275.gif" alt="Cyber Animation" width="800" height="500">
+<img src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/3dgifmaker87275.gif" alt="Cyber Animation" width="800">
 
 </div>
 
