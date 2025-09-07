@@ -1,7 +1,12 @@
 <div align="center">
+
 # UNCW Cyber Defense Club Badge
-<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" /> <img src="https://github.com/user-attachments/assets/42465555-03e2-47d6-9b39-6343cbab47ea" alt="Cyber Animation" width="200"> </div>
- 
+
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+
+<img src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/3dgifmaker15799.gif" alt="Cyber Animation" width="200">
+
+</div>
 
 Show your UNCW Cyber Defense Club pride on your GitHub profile!
 
@@ -73,4 +78,5 @@ Copy and paste this code into your README.md:
 
 *Made exclusively for UNCW Cyber Defense Club members*
 
-**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone.
+**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone
+
