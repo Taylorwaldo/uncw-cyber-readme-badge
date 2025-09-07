@@ -1,6 +1,6 @@
 <div align="center">
 
-# UNCW Cyber Defense Club Badge
+# UNCW Cyber Defense Club Badge 2025
 
 ![3dgifmaker87275-ezgif com-crop](https://github.com/user-attachments/assets/cf029394-f4a8-447b-8c7e-00fd12907fa9)
 
