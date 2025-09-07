@@ -2,9 +2,11 @@
 
 <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
+Show your UNCW Cyber Defense Club pride on your GitHub profile!
+
 ## How to Add This Badge to Your GitHub Profile
 
-### Method 1: Direct Image Link (Standard)
+### Method 1: Direct Image Link
 Copy and paste this code into your README.md:
 
 ```html
@@ -19,16 +21,24 @@ Copy and paste this code into your README.md:
 ```
 
 ### Method 3: Different Sizes
+
+**Small (120x22):**
 ```html
-<!-- Small -->
+<img width="120" height="22" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+```
 <img width="120" height="22" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
-<!-- Medium (Default) -->
+**Medium (160x30) - Default:**
+```html
+<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
+```
 <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
-<!-- Large -->
+**Large (200x37):**
+```html
 <img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 ```
+<img width="200" height="37" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
 ## Instructions:
 1. **Copy** one of the code blocks above
@@ -62,4 +72,4 @@ Copy and paste this code into your README.md:
 
 *Made exclusively for UNCW Cyber Defense Club members*
 
-**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone!
+**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone.
