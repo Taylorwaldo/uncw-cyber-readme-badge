@@ -6,7 +6,7 @@ Show your UNCW Cyber Defense Club pride on your GitHub profile!
 
 ## How to Add This Badge to Your GitHub Profile
 
-### Method 1: Direct Image Link
+### Method 1: Direct Image Link (Standard)
 Copy and paste this code into your README.md:
 
 ```html
