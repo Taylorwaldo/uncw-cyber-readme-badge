@@ -38,8 +38,6 @@ Copy and paste this code into your README.md:
 ```
 <img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
 
-<img width="160" height="30" alt="UNCW Cyber Defense Club" src="https://raw.githubusercontent.com/Taylorwaldo/uncw-cyber-readme-badge/main/assets/cyber_club_badge.png" />
-
 https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white
 
 **Large (200x37):**
