@@ -50,30 +50,4 @@ Copy and paste this code into your README.md:
 3. **Commit** the changes
 4. **Done!** The badge will appear in your README
 
-## Club Members Using This Badge:
-- [Taylorwaldo](https://github.com/Taylorwaldo) ✅
-- Add your name here with a PR!
-
-### How to Add Your Name to This List:
-
-#### Easy Way (Recommended):
-1. **Click the edit button (pencil icon)** on this README file
-2. **Add your name** to the list above in this format:
-   ```markdown
-   - [YourGitHubUsername](https://github.com/YourGitHubUsername) ✅
-   ```
-3. **Scroll down** and click "Propose changes"
-4. **Click "Create pull request"** 
-5. **Wait for approval** - It'll be merged once reviewed!
-
-#### Traditional Way:
-1. **Fork this repository**
-2. **Edit the README.md** in your fork
-3. **Add your name** to the club members list
-4. **Create a pull request** back to this repo
-
----
-
-*Made exclusively for UNCW Cyber Defense Club members*
-
-**Note:** This badge links directly to this repository. The repo will stay public so the badge works for everyone!
+ 
